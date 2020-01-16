@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BH401)(type KiCad)(uri ${KIPRJMOD}/BH401.pretty)(options "")(descr ""))
+  (lib (name JST-XA)(type KiCad)(uri ${KIPRJMOD}/JST-XA.pretty)(options "")(descr ""))
+)
