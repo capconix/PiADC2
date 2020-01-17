@@ -1,4 +1,4 @@
-16937916080921040
+16939495293435040
 BH401
 BH401
 
@@ -50147,6 +50147,13 @@ B04B-XASK-1(LF)(SN)
 0
 4
 4
+JST-XA
+S04B-XASK-1(LF)(SN)
+
+
+0
+4
+4
 JST_PUD
 S08B-PUDSS-1(LF)(SN)
 
@@ -53211,8 +53218,8 @@ PIC16LF18326IJQ
 
 
 0
-0
-0
+17
+17
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
