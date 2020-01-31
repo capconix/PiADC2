@@ -1,0 +1,119 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x04_Odd_Even J4
+U 1 1 5E33DBAE
+P 4950 3650
+F 0 "J4" H 5000 3225 50  0000 C CNN
+F 1 "CONN" H 5000 3316 50  0000 C CNN
+F 2 "AMPHENOL_75869-332LF:AMPHENOL_75869-332LF" H 4950 3650 50  0001 C CNN
+F 3 "~" H 4950 3650 50  0001 C CNN
+	1    4950 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x04_Male J1
+U 1 1 5E33E036
+P 5450 3550
+F 0 "J1" H 5422 3524 50  0000 R CNN
+F 1 "AN" H 5422 3433 50  0000 R CNN
+F 2 "OSTVN254:4POS" H 5450 3550 50  0001 C CNN
+F 3 "~" H 5450 3550 50  0001 C CNN
+	1    5450 3550
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x04_Male J2
+U 1 1 5E33EF9C
+P 3850 3550
+F 0 "J2" H 3958 3831 50  0000 C CNN
+F 1 "GND" H 3958 3740 50  0000 C CNN
+F 2 "OSTVN254:4POS" H 3850 3550 50  0001 C CNN
+F 3 "~" H 3850 3550 50  0001 C CNN
+	1    3850 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x04_Male J3
+U 1 1 5E3406B6
+P 3850 4200
+F 0 "J3" H 3958 4481 50  0000 C CNN
+F 1 "PWR" H 3958 4390 50  0000 C CNN
+F 2 "OSTVN254:4POS" H 3850 4200 50  0001 C CNN
+F 3 "~" H 3850 4200 50  0001 C CNN
+	1    3850 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4650 3750 4550 3750
+Wire Wire Line
+	4550 3750 4550 4100
+Wire Wire Line
+	4550 4100 4150 4100
+Wire Wire Line
+	4050 4200 4150 4200
+Wire Wire Line
+	4150 4200 4150 4100
+Connection ~ 4150 4100
+Wire Wire Line
+	4150 4100 4050 4100
+Wire Wire Line
+	4050 4300 4150 4300
+Wire Wire Line
+	4450 4300 4450 3450
+Wire Wire Line
+	4450 3450 4650 3450
+Wire Wire Line
+	4050 4400 4150 4400
+Wire Wire Line
+	4150 4400 4150 4300
+Connection ~ 4150 4300
+Wire Wire Line
+	4150 4300 4450 4300
+Wire Wire Line
+	4650 3650 4550 3650
+Wire Wire Line
+	4550 3650 4550 3550
+Wire Wire Line
+	4550 3550 4650 3550
+Wire Wire Line
+	4550 3550 4150 3550
+Connection ~ 4550 3550
+Wire Wire Line
+	4050 3450 4150 3450
+Wire Wire Line
+	4150 3450 4150 3550
+Connection ~ 4150 3550
+Wire Wire Line
+	4150 3550 4050 3550
+Wire Wire Line
+	4150 3550 4150 3650
+Wire Wire Line
+	4150 3650 4050 3650
+Wire Wire Line
+	4150 3650 4150 3750
+Wire Wire Line
+	4150 3750 4050 3750
+Connection ~ 4150 3650
+Wire Wire Line
+	5150 3450 5250 3450
+Wire Wire Line
+	5150 3550 5250 3550
+Wire Wire Line
+	5150 3650 5250 3650
+Wire Wire Line
+	5150 3750 5250 3750
+$EndSCHEMATC

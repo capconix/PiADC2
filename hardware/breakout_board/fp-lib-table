@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name AMPHENOL_75869-332LF)(type KiCad)(uri ${KIPRJMOD}/AMPHENOL_75869-332LF.pretty)(options "")(descr ""))
+  (lib (name OSTVN254)(type KiCad)(uri ${KIPRJMOD}/OSTVN254.pretty)(options "")(descr ""))
+)
