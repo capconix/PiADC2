@@ -3,4 +3,5 @@
   (lib (name JST-XA)(type KiCad)(uri ${KIPRJMOD}/JST-XA.pretty)(options "")(descr ""))
   (lib (name AMPHENOL_75869-332LF)(type KiCad)(uri ${KIPRJMOD}/AMPHENOL_75869-332LF.pretty)(options "")(descr ""))
   (lib (name OSTVN254)(type KiCad)(uri ${KIPRJMOD}/OSTVN254.pretty)(options "")(descr ""))
+  (lib (name MPL3115A2)(type KiCad)(uri ${KIPRJMOD}/MPL3115A2.pretty)(options "")(descr ""))
 )

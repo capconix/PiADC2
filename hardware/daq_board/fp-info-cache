@@ -1,4 +1,4 @@
-16939499100384188
+16945817725646464
 AMPHENOL_75869-332LF
 AMPHENOL_75869-332LF
 
@@ -6,6 +6,13 @@ AMPHENOL_75869-332LF
 0
 8
 8
+BH401
+BH401
+
+
+0
+2
+2
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50140,6 +50147,20 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 0
 2
 2
+JST-XA
+B04B-XASK-1(LF)(SN)
+
+
+0
+4
+4
+JST-XA
+S04B-XASK-1(LF)(SN)
+
+
+0
+4
+4
 JST_PUD
 S08B-PUDSS-1(LF)(SN)
 
@@ -51400,6 +51421,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MPL3115A2
+MPL3115A2
+
+
+0
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
