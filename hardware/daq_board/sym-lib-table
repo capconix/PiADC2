@@ -3,4 +3,5 @@
   (lib (name MCP23008)(type Legacy)(uri ${KIPRJMOD}/MCP23008.lib)(options "")(descr ""))
   (lib (name HCPL2631M)(type Legacy)(uri ${KIPRJMOD}/HCPL2631M.lib)(options "")(descr ""))
   (lib (name MPL3115A2)(type Legacy)(uri ${KIPRJMOD}/MPL3115A2.lib)(options "")(descr ""))
+  (lib (name PiADC2-rescue)(type Legacy)(uri ${KIPRJMOD}/PiADC2-rescue.lib)(options "")(descr ""))
 )

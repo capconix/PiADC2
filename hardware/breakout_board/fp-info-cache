@@ -1,6 +1,9 @@
 16939499100384188
 AMPHENOL_75869-332LF
 AMPHENOL_75869-332LF
+16928450501349116
+BH401
+BH401
 
 
 0
@@ -2348,13 +2351,6 @@ Calibration_Scale
 Gauge_100mm_Type2_SilkScreenTop
 Gauge, Massstab, 100mm, SilkScreenTop, Type 2,
 Gauge Massstab 100mm SilkScreenTop Type 2
-0
-0
-0
-CapConiX_Logos
-CapConiX_Logo_10_7
-
-
 0
 0
 0
@@ -6095,13 +6091,6 @@ Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size fro
 capacitor tantalum
 0
 2
-2
-Combicon_PTSM
-SMD_H_2X
-
-
-0
-4
 2
 Connector
 Banana_Jack_1Pin
@@ -50140,6 +50129,7 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 0
 2
 2
+<<<<<<< HEAD:hardware/breakout_board/fp-info-cache
 JST_PUD
 S08B-PUDSS-1(LF)(SN)
 
@@ -50147,6 +50137,22 @@ S08B-PUDSS-1(LF)(SN)
 0
 8
 8
+=======
+JST-XA
+B04B-XASK-1(LF)(SN)
+
+
+0
+4
+4
+JST-XA
+S04B-XASK-1(LF)(SN)
+
+
+0
+4
+4
+>>>>>>> 4f86da993c99b5561b04c378ba81941cfd287e66:hardware/fp-info-cache
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -51526,13 +51532,6 @@ ESP8266 WiFi microcontroller
 0
 16
 16
-Molex_MicroClasp
-0559350810_right_angle_8pos
-
-
-0
-8
-8
 MountingEquipment
 DINRailAdapter_3xM3_PhoenixContact_1201578
 https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1
@@ -53213,13 +53212,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PIC16LF18326
-PIC16LF18326IJQ
-
-
-0
-17
-17
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -70111,13 +70103,6 @@ Logo WEEE
 0
 0
 0
-TT_Trimmers
-89PR
-
-
-0
-3
-3
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -75319,10 +75304,3 @@ varistor SIOV
 0
 2
 2
-raspberry_pi
-pi_b_hat
-
-
-0
-40
-40
